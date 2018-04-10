@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+# "Brillo Soap Pad Boxes" By Andy Warhol
+
+## Introduction 
+
+## Physical to Digital Copies
+[Link](url) for Process
+
+## Digital Copies to Digital Things - Remixing History 
+
+## Digital Things to Digital Worlds
+
+## Digital Worlds to Physical Worlds
+
+## Final Thoughts 
+
+## Works Cited 
 
 You can use the [editor on GitHub](https://github.com/Alexismk/Digital-History-3812-Porfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,10 +27,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Introduction 
-## Physical to Digital Copies
-### Digital Copies to Digital Things - Remixing History 
-### Digital Things to Digital Worlds
-### Digital Worlds to Physical Worlds
 
 - Bulleted
 - List
