@@ -11,9 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Introduction 
+## Physical to Digital Copies
+### Digital Copies to Digital Things - Remixing History 
+### Digital Things to Digital Worlds
+### Digital Worlds to Physical Worlds
 
 - Bulleted
 - List
